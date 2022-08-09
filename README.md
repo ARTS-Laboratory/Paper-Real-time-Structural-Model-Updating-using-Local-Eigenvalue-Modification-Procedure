@@ -2,7 +2,7 @@ In this study, a real-time model updating method is developed that uses the loca
 
 # Model Development
 
-![flowchart](https://user-images.githubusercontent.com/69466658/183703072-97f72333-7a72-4f6f-bc6a-352f96b68397.PNG)
+![flowchart](https://user-images.githubusercontent.com/69466658/183709539-5ef94c32-45e0-4e06-9d5a-e75d349e7809.PNG)
 
 The objective of the experimental process is to ascertain the actual system response of the DROPBEAR testbed under various boundary circumstances. This is done by using the accelerometer that is positioned on the free end of the beam to gather acceleration data from the system. A sliding Hann window is used to smooth the time-series data before the acceleration data are analyzed. The Fast Fourier Transform (FFT) of the acceleration data is then used to determine the beam's inherent frequency. Then, using comparison methods, the observed system response is compared to the several analytically calculated models to estimate the state. The analytical step is to create model in which LEMP is implemented on selected roller locations to calculate the natural frequencies of the beam. The calculate frequencies are then compared to the measured frequecies using two comparison criteria, error minimization and bounded regression.
 
@@ -32,5 +32,4 @@ The total time take for a state update time for the GE and LEMP using the error 
 
 ![results_table](https://user-images.githubusercontent.com/69466658/183708884-4ab440cf-aea6-4fae-a43f-4f8a865d8399.PNG)
 
-![flowchart](https://user-images.githubusercontent.com/69466658/183709274-857d0581-801e-4c65-a48f-0176d03f94b6.PNG)
-
+![MEA vs iteration time](https://user-images.githubusercontent.com/69466658/183709382-925348ea-1aca-46bd-bdcb-dc8d5ddd8072.jpg)
