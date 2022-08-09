@@ -1,4 +1,4 @@
-# code for the DROPBEAR simulation process
+# Code for the DROPBEAR simulation process
 
 * DROPBEAR simulation - to obtain the DROPBEAR state estimation for GE AND LEMP
 * DROPBEAR Bayesian - to obtain the DROPBEAR state estimation for LEMP with Bayesian
