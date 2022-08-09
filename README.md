@@ -9,7 +9,7 @@
 
 # Model timing and accuracy
 
-# # Solver time
+*Solver time
 ![results_table](https://user-images.githubusercontent.com/69466658/183683777-b6fd04fb-3eaf-4929-ad8d-29edf04ff306.PNG)
 
 ![MEA vs iteration time](https://user-images.githubusercontent.com/69466658/183682900-38fbadb6-edfe-4215-bfd6-8a5df3d0ea84.jpg)
