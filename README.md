@@ -30,6 +30,7 @@ The total time take for a state update time for the GE and LEMP using the error 
 
 *Accuracy and optimal configuration*
 
-![results_table](https://user-images.githubusercontent.com/69466658/183683777-b6fd04fb-3eaf-4929-ad8d-29edf04ff306.PNG)
+![results_table](https://user-images.githubusercontent.com/69466658/183708884-4ab440cf-aea6-4fae-a43f-4f8a865d8399.PNG)
 
-![MEA vs iteration time](https://user-images.githubusercontent.com/69466658/183682900-38fbadb6-edfe-4215-bfd6-8a5df3d0ea84.jpg)
+![flowchart](https://user-images.githubusercontent.com/69466658/183709274-857d0581-801e-4c65-a48f-0176d03f94b6.PNG)
+
