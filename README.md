@@ -33,3 +33,18 @@ The total time take for a state update time for the GE and LEMP using the error 
 ![results_table](https://user-images.githubusercontent.com/69466658/183708884-4ab440cf-aea6-4fae-a43f-4f8a865d8399.PNG)
 
 ![MEA vs iteration time](https://user-images.githubusercontent.com/69466658/183709382-925348ea-1aca-46bd-bdcb-dc8d5ddd8072.jpg)
+
+## Citation
+
+Cite as:
+
+@Misc{Ogunniyi2022RepositoryRealtime,  
+author = {Emmanuel Ogunniyi and Claire Drnek and Seong Hyeon Hong and Austin R.J. Downey and Yi Wang and Jason D. Bakos, Peter Avitabile and Jacob Dodson},
+howpublished = {GitHub},  
+title = {Repository for Real-time Structural Model Updating using Local Eigenvalue Modification Procedure for Application in High-Rate Dynamic Events},
+year = {2022},  
+groups = {{ARTS-L}ab},  
+url = {https://github.com/ARTS-Laboratory/LabVIEW-FPGA-Array-Based-Linear-Algebra},  
+}  
+
+
