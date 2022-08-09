@@ -3,7 +3,7 @@
 # Model Development
 
 # Model Estimation and accuracy
-![LEMP_error](https://user-images.githubusercontent.com/69466658/183671257-8b974f24-572e-426c-8282-2d6a94d05eac.JPG)
+![LEMP_error](https://user-images.githubusercontent.com/69466658/183671863-bf49eb73-f3ff-437a-8d92-63b271bde777.JPG)
 
 # Model Timing
 
