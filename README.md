@@ -11,7 +11,7 @@ Error minimization and linear regression were used as comparison techniques in t
 
 ![error_minimization2](https://user-images.githubusercontent.com/69466658/183679692-5af63bb4-afc1-4b92-80cb-8a89e4e9ab6f.jpg)
 
-for the figure above, when using the error minimization strategy, the roller would move and fluctuate, producing abrupt transitory errors in most cases. But the estimations improved with the use of a Bayesian search space. When using the bounded regression technique, estimation fluctuation decreased during roller movement but not during stationary times.
+For the figure above, when using the error minimization strategy, the roller would move and fluctuate, producing abrupt transitory errors in most cases. But the estimations improved with the use of a Bayesian search space. When using the bounded regression technique, estimation fluctuation decreased during roller movement but not during stationary times.
 
 As the number of nodes used in the model increases, the estimation became better and less error is observed in the model update results as shown below.
 
@@ -20,8 +20,11 @@ As the number of nodes used in the model increases, the estimation became better
 # Model timing and accuracy
 
 *Solver time*
+The time take by both solver (GE and LEMP) to solve for the frequencies during each update step is show below. While the time change on the LEMP increases slowly as the number of nodes increases. the GE solver time increases exponentially.
 
 ![solver_time](https://user-images.githubusercontent.com/69466658/183702159-6388887f-ffb8-4836-b061-ba475306598b.jpg)
+
+The total time take for a state update time for the GE and LEMP using the error minimization and bounded regression is presented below for 21, 26, 51 and 101 nodes
 
 ![update_time](https://user-images.githubusercontent.com/69466658/183702198-44da4b6d-04ce-46b4-bc68-78cabc0e6235.jpg)
 
