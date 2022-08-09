@@ -26,7 +26,7 @@ The time take by both solver (GE and LEMP) to solve for the frequencies during e
 
 The total time take for a state update time for the GE and LEMP using the error minimization and bounded regression is presented below for 21, 26, 51 and 101 nodes
 
-![update_time](https://user-images.githubusercontent.com/69466658/183707320-454984d9-b137-45e4-87ca-d5840a453e36.jpg)
+![update_time](https://user-images.githubusercontent.com/69466658/183707450-fcfb7875-4406-46a8-a433-a415494b6b7f.jpg)
 
 *Accuracy and optimal configuration*
 
