@@ -22,11 +22,11 @@ As the number of nodes used in the model increases, the estimation became better
 *Solver time*
 The time take by both solver (GE and LEMP) to solve for the frequencies during each update step is show below. While the time change on the LEMP increases slowly as the number of nodes increases. the GE solver time increases exponentially.
 
-![solver_time](https://user-images.githubusercontent.com/69466658/183702159-6388887f-ffb8-4836-b061-ba475306598b.jpg)
+![solver_time](https://user-images.githubusercontent.com/69466658/183707289-4ad0170d-8f82-4f04-95c8-c115dc91c6c4.jpg)
 
 The total time take for a state update time for the GE and LEMP using the error minimization and bounded regression is presented below for 21, 26, 51 and 101 nodes
 
-![update_time](https://user-images.githubusercontent.com/69466658/183702198-44da4b6d-04ce-46b4-bc68-78cabc0e6235.jpg)
+![update_time](https://user-images.githubusercontent.com/69466658/183707320-454984d9-b137-45e4-87ca-d5840a453e36.jpg)
 
 *Accuracy and optimal configuration*
 
