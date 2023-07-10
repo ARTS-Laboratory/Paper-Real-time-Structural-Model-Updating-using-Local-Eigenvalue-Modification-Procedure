@@ -1,8 +1,8 @@
 # Public code repository for the paper "Real-time structural model updating using local eigenvalue modification procedure for applications in high-rate dynamic events"
 
-[paper citation] Emmanuel A. Ogunniyi, Claire Drnek, Seong Hyeon Hong, Austin R.J. Downey, Yi Wang, Jason D. Bakos, Peter Avitabile, and Jacob Dodson. Real-time structural model updating using local eigenvalue modification procedure for applications in high-rate dynamic events. Mechanical Systems and Signal Processing, 195:110318, jul 2023. doi:10.1016/j.ymssp.2023.110318
-
 In this study, a real-time model updating method is developed that uses the local eigenvalue modification procedure (LEMP) to break down the original eigenvalue solution into a collection of second-order equations. The suggested technique was developed offline after experimental validation utilizing data from the DROPBEAR testbed.
+
+[paper citation] Emmanuel A. Ogunniyi, Claire Drnek, Seong Hyeon Hong, Austin R.J. Downey, Yi Wang, Jason D. Bakos, Peter Avitabile, and Jacob Dodson. Real-time structural model updating using local eigenvalue modification procedure for applications in high-rate dynamic events. Mechanical Systems and Signal Processing, 195:110318, jul 2023. doi:10.1016/j.ymssp.2023.110318
 
 ## Model Development
 
